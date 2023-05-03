@@ -1,0 +1,28 @@
+{
+  "name": "project-zi",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zi-Network/Project-Zi.git"
+  },
+  "keywords": [
+    "testzi"
+  ],
+  "author": "zinetwork",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zi-Network/Project-Zi/issues"
+  },
+  "homepage": "https://github.com/Zi-Network/Project-Zi#readme",
+  "dependencies": {
+    "chai": "^4.3.7"
+  }
+}
